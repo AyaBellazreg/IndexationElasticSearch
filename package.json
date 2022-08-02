@@ -1,0 +1,14 @@
+{
+  "name": "projet-indexation",
+  "version": "1.0.0",
+  "description": "indextion json data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aya Bellazreg",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.1.0"
+  }
+}
