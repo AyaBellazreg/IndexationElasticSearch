@@ -67,11 +67,11 @@ const titles = [
 //connection
 const client = new Client({
   cloud: {
-    id: 'indexation:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvJDZhZGQwZmVlMzdkYzRkZjE4ZDRiM2VkNTRhNjM0MDkyJDIwYWJlMWMyNTU1MjQyOGJhMDFmYzEzOWFmZmJmMjYy',
+    id: 'indexation:cloudId',
   },
   auth: {
     username: 'elastic',
-    password: '52zLwyl4Erxy4dGTNUbae9Dr',
+    password: 'pass',
   },
 });
 
